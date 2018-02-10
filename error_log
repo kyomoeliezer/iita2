@@ -1,0 +1,1 @@
+[23-Jan-2018 12:04:48 Africa/Dar_es_Salaam] PHP Fatal error:  Call to undefined method MY_Email::AddCC() in /home/mifumotz/iita.mifumotz.com/application/controllers/Welcome.php on line 74
